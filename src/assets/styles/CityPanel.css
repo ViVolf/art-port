@@ -1,0 +1,15 @@
+.city-button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    opacity: 0.7;
+    color: rgb(34, 87, 146);
+}
+
+.city-modal {
+    background-color: rgb(247, 251, 255);
+    border: 1px solid rgba(90, 175, 255, 0.3);
+    border-radius: 1vw;
+    width: 40%;
+    height: 30vw;
+} 

@@ -1,0 +1,12 @@
+.top-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 0.7vw;
+    white-space: nowrap;
+    width: 35%;
+}
+
+.top-nav-button {
+    text-decoration: none;
+}

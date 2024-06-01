@@ -1,0 +1,24 @@
+.rect {
+    background-color: rgb(238, 245, 247);
+    width: 31.5%;
+    height: 10.5vw;
+    border-radius: 0.6vw;
+    position: relative;
+    cursor: pointer;
+}
+
+.rect-img {
+    position: absolute;
+    right: 5%;
+    bottom: 7%;
+    width: 45%;
+    max-height: 70%;
+}
+
+.rect-text {
+    position: absolute;
+    width: 60%;
+    top: 17%;
+    left: 8%;
+    font-size: 1.05vw;
+}

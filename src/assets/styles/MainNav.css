@@ -1,0 +1,27 @@
+.main-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 0.85vw;
+    width: 25%;
+    max-height: 40px;
+}
+
+.main-nav-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 70%;
+    text-decoration: none;
+    font-weight: 400;
+    color: rgb(68, 112, 255);
+    transition: all .2s ease;
+}
+
+.main-nav-button:hover {
+    opacity: 1;
+}
+
+.main-nav-img {
+    width: 1vw;
+}
